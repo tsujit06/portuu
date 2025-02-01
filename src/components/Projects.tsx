@@ -20,7 +20,7 @@ export default function Projects() {
       id: 1,
       title: "Designed a Student Management System",
       description: "Simple Webpage connected to databases for student details management usingHTML,CSS & SQL databases",
-      image: "src/components/projects images/elearning-education-internet-lessons-online-260nw-2158034833.JPG",
+      image: "./src/components/projects images/elearning-education-internet-lessons-online-260nw-2158034833.jpg",
       technologies: ["HTML5", "CSS", "MySQL"],
       longDescription: "This project was developed as part of the DBMS course to manage student details, such as name, roll number, and course, using HTML, CSS, and SQL. The webpage was created with HTML and styled using CSS to provide a clean and user-friendly interface. SQL was used to store and manage student data in a MySQL database, with CRUD (Create, Read, Update, Delete) operations enabling interaction with the records. The project was hosted locally using XAMPP, integrating the front-end with the back-end. This project allowed me to apply my understanding of database management and SQL queries, providing hands-on experience in managing and interacting with databases for real-world applications."
     },
